@@ -1,0 +1,13 @@
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.exe
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.deps.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.runtimeconfig.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.runtimeconfig.dev.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\bin\Debug\netcoreapp3.1\singleton_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.csprojAssemblyReference.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.AssemblyInfo.cs
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\singleton_pattern\obj\Debug\netcoreapp3.1\singleton_pattern.genruntimeconfig.cache
