@@ -1,0 +1,13 @@
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.exe
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.deps.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.runtimeconfig.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.runtimeconfig.dev.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\bin\Debug\netcoreapp3.1\factory_method_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.csprojAssemblyReference.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.AssemblyInfo.cs
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\factory_method_pattern\obj\Debug\netcoreapp3.1\factory_method_pattern.genruntimeconfig.cache
