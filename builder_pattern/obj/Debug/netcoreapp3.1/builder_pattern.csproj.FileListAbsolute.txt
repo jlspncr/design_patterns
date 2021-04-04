@@ -1,0 +1,13 @@
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.exe
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.deps.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.runtimeconfig.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.runtimeconfig.dev.json
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\bin\Debug\netcoreapp3.1\builder_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.csprojAssemblyReference.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.AssemblyInfo.cs
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.dll
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.pdb
+C:\Users\Jack\Documents\code\opensrc\design_patterns\builder_pattern\obj\Debug\netcoreapp3.1\builder_pattern.genruntimeconfig.cache
